@@ -1,10 +1,10 @@
 {
   "name": "tidy-html",
-  "description": "Tidy HTML template - Cruip.com",
+  "description": "Tidy HTML template - delegaro.com",
   "version": "1.0.0",
-  "homepage": "https://cruip.com",
+  "homepage": "https://delegaro.com",
   "author": "Pasquale Vitiello",
-  "license": "https://cruip.com/terms/",
+  "license": "https://delegaro.com/terms/",
   "scripts": {
     "dev": "npx @tailwindcss/cli -i ./css/style.css -o ./style.css --watch",
     "build": "npx @tailwindcss/cli -i ./css/style.css -o ./style.css"
