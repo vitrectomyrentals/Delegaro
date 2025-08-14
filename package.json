@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "homepage": "https://delegaro.com",
   "author": "Pasquale Vitiello",
-  "license": "https://delegaro.com/terms/",
+  "license": "https://delegaro.com",
   "scripts": {
     "dev": "npx @tailwindcss/cli -i ./css/style.css -o ./style.css --watch",
     "build": "npx @tailwindcss/cli -i ./css/style.css -o ./style.css"
